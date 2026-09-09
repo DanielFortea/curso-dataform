@@ -1,0 +1,7 @@
+config {
+  type: "declaration",
+  database: "curso-dataform-508110",
+  schema: "raw_data",
+  name: "products",
+  description: "Catálogo de productos"
+}
