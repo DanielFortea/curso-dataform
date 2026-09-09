@@ -1,0 +1,23 @@
+config {
+  type: "declaration",
+  database: "curso-dataform-508110",
+  schema: "raw_data",
+  name: "orders",
+  description: "Tabla transaccional de ventas"
+}
+
+config {
+  type: "declaration",
+  database: "curso-dataform-508110",
+  schema: "raw_data",
+  name: "products",
+  description: "Catálogo de productos"
+}
+
+config {
+  type: "declaration",
+  database: "curso-dataform-508110",
+  schema: "raw_data",
+  name: "users",
+  description: "Tabla dimensional de usuarios"
+}
